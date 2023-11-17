@@ -1,0 +1,5 @@
+# python
+streamlit                 
+streamlit-lottie          
+streamlit-option-menu     
+requests                  
